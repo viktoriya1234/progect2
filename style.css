@@ -1,0 +1,39 @@
+body {
+    background: radial-gradient(#ff0000 6%, #000 100%, #ffffff 100%);
+}
+.nav-link {
+    color: rgb(180, 68, 224);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(173, 38, 38);  
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler {
+    background-color:  rgb(44, 41, 41);
+}
+
+.sidebar {
+      color: rgb(180, 68, 224);
+       background: radial-gradient(#ff0000 6%, #000 100%, #ffffff 100%);
+}
+
+.card {
+     background: radial-gradient(#f10909 6%, #610000 100%, #ffffff 100%);
+     color: aquamarine;
+}
+
+.card a {
+    text-decoration:none ;
+    color: rgb(14, 14, 246);
+}
+
+.slide-text,
+.footer-text {
+    color: rgb(255, 255, 255);
+    margin-inline: auto auto;
+}
